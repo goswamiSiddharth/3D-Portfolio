@@ -26,9 +26,16 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import docker from './docker.png'
+import springboot from './springboot.png'
+import java from './java.png'
+import youtube from './youtube.svg'
+import todo from './todo.svg'
+import unsplash from './unsplash.svg'
 
 export {
     css,
+    todo,
     express,
     git,
     github,
@@ -55,5 +62,10 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    docker,
+    springboot,
+    java,
+    youtube,
+    unsplash
 }
